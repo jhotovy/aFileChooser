@@ -1,5 +1,7 @@
 # aFileChooser - Android File Chooser
 
+Versión preparada para compilar con gradle desde línea de comandos.
+
 aFileChooser is an __Android Library Project__ that simplifies the process of presenting a file chooser on Android 2.1+.
 
 Intents provide the ability to hook into third-party app components for content selection. This works well for media files, but if you want users to be able to select *any* file, they must have an existing "file explorer" app installed. Because many Android devices don't have stock File Explorers, the developer must often instruct the user to install one, or build one, themselves. aFileChooser solves this issue.
