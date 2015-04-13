@@ -1,6 +1,6 @@
 # aFileChooser - Android File Chooser
 
-Versión preparada para compilar con gradle desde línea de comandos.
+Fork of the original aFileChooser (see description below). Modified to build with gradle, on the command line. Also, the example app was removed.
 
 aFileChooser is an __Android Library Project__ that simplifies the process of presenting a file chooser on Android 2.1+.
 
